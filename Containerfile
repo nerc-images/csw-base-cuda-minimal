@@ -9,6 +9,8 @@ RUN dnf install -y \
   dos2unix \
   bc \
   emacs \
+  jq \
+  texlive \
   man-pages
 
 USER 1001
