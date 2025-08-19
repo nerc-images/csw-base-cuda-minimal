@@ -1,6 +1,6 @@
 # csw-base-cuda-minimal
 
-A Jupyter OpenShift AI Image with PyTorch and CUDA for GPUs.
+A Jupyter OpenShift AI Image with minimal dependencies and CUDA for GPUs.
 Based on the [Red Hat Data Services notebook images](https://github.com/red-hat-data-services/notebooks/)
 on GitHub for Jupyter Lab Notebook integration.
 
